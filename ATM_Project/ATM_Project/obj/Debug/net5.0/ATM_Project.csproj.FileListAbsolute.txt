@@ -1,0 +1,16 @@
+C:\Users\Ertugrul\source\repos\ATM_Project\ATM_Project\bin\Debug\net5.0\ATM_Project.exe
+C:\Users\Ertugrul\source\repos\ATM_Project\ATM_Project\bin\Debug\net5.0\ATM_Project.deps.json
+C:\Users\Ertugrul\source\repos\ATM_Project\ATM_Project\bin\Debug\net5.0\ATM_Project.runtimeconfig.json
+C:\Users\Ertugrul\source\repos\ATM_Project\ATM_Project\bin\Debug\net5.0\ATM_Project.runtimeconfig.dev.json
+C:\Users\Ertugrul\source\repos\ATM_Project\ATM_Project\bin\Debug\net5.0\ATM_Project.dll
+C:\Users\Ertugrul\source\repos\ATM_Project\ATM_Project\bin\Debug\net5.0\ref\ATM_Project.dll
+C:\Users\Ertugrul\source\repos\ATM_Project\ATM_Project\bin\Debug\net5.0\ATM_Project.pdb
+C:\Users\Ertugrul\source\repos\ATM_Project\ATM_Project\obj\Debug\net5.0\ATM_Project.csproj.AssemblyReference.cache
+C:\Users\Ertugrul\source\repos\ATM_Project\ATM_Project\obj\Debug\net5.0\ATM_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ertugrul\source\repos\ATM_Project\ATM_Project\obj\Debug\net5.0\ATM_Project.AssemblyInfoInputs.cache
+C:\Users\Ertugrul\source\repos\ATM_Project\ATM_Project\obj\Debug\net5.0\ATM_Project.AssemblyInfo.cs
+C:\Users\Ertugrul\source\repos\ATM_Project\ATM_Project\obj\Debug\net5.0\ATM_Project.csproj.CoreCompileInputs.cache
+C:\Users\Ertugrul\source\repos\ATM_Project\ATM_Project\obj\Debug\net5.0\ATM_Project.dll
+C:\Users\Ertugrul\source\repos\ATM_Project\ATM_Project\obj\Debug\net5.0\ref\ATM_Project.dll
+C:\Users\Ertugrul\source\repos\ATM_Project\ATM_Project\obj\Debug\net5.0\ATM_Project.pdb
+C:\Users\Ertugrul\source\repos\ATM_Project\ATM_Project\obj\Debug\net5.0\ATM_Project.genruntimeconfig.cache
